@@ -5,4 +5,4 @@ Make sure the internet access is available, we use **CDN**
 
 Example:
 
-![Image of Card](https://github.com/loopcommunity/bootstrap-card/card.png)
+![Image of Card](https://github.com/loopcommunity/bootstrap-card/blob/master/card.png)
